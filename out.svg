@@ -1,0 +1,29 @@
+
+<svg width='454' height='315'><g>
+    <rect x="5" y="5" width="208" height="29" style="fill:rgb(192,0,0);stroke-width:2;stroke:rgb(0,0,0)" ></rect>
+    <text x="20" y="26" font-family="Verdana" font-size="15" font-weight="bold" fill="white">Search engines</text>
+  </g><g>
+    <rect x="5" y="34" width="208" height="47" style="fill:rgb(237,241,247);stroke-width:2;stroke:rgb(0,0,0)" ></rect>
+    <text x="20" y="66" font-family="Verdana" font-size="15" font-weight="bold" fill="black"><a href="https://www.google.com">Google</a></text>
+  </g><g>
+    <rect x="5" y="81" width="208" height="47" style="fill:rgb(237,241,247);stroke-width:2;stroke:rgb(192,0,0)" ></rect>
+    <text x="20" y="113" font-family="Verdana" font-size="15" font-weight="bold" fill="black"><a href="https://search.brave.com">Brave Search</a></text>
+  </g><g>
+    <rect x="5" y="147" width="208" height="29" style="fill:rgb(52,108,169);stroke-width:2;stroke:rgb(0,0,0)" ></rect>
+    <text x="20" y="168" font-family="Verdana" font-size="15" font-weight="bold" fill="white">Travel</text>
+  </g><g>
+    <rect x="5" y="176" width="208" height="47" style="fill:rgb(237,241,247);stroke-width:2;stroke:rgb(0,0,0)" ></rect>
+    <text x="20" y="208" font-family="Verdana" font-size="15" font-weight="bold" fill="black"><a href="https://www.blablacar.fr">Bla bla car</a></text>
+  </g><g>
+    <rect x="5" y="223" width="208" height="47" style="fill:rgb(237,241,247);stroke-width:2;stroke:rgb(0,0,0)" ></rect>
+    <text x="20" y="255" font-family="Verdana" font-size="15" font-weight="bold" fill="black"><a href="http://www.qwant.com">Qwant</a></text>
+  </g><g>
+    <rect x="232" y="5" width="208" height="29" style="fill:rgb(52,108,169);stroke-width:2;stroke:rgb(0,0,0)" ></rect>
+    <text x="247" y="26" font-family="Verdana" font-size="15" font-weight="bold" fill="white">Source code</text>
+  </g><g>
+    <rect x="232" y="34" width="208" height="47" style="fill:rgb(237,241,247);stroke-width:2;stroke:rgb(0,0,0)" ></rect>
+    <text x="247" y="66" font-family="Verdana" font-size="15" font-weight="bold" fill="black"><a href="http://www.github.com">Github</a></text>
+  </g><g>
+    <rect x="232" y="81" width="208" height="47" style="fill:rgb(237,241,247);stroke-width:2;stroke:rgb(0,0,0)" ></rect>
+    <text x="247" y="113" font-family="Verdana" font-size="15" font-weight="bold" fill="black"><a href="https://stackoverflow.com">Stack Overflow</a></text>
+  </g></svg>
