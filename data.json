@@ -1,27 +1,34 @@
 [
     [
         {
-            "titre": "Search engines",
+            "width": 208
+        }
+    ],
+    [
+        {
+            "title": "Search engines",
             "elements": [
                 {
-                    "titre": "Google",
-                    "url": "http://www.google.com"
+                    "title": "Google",
+                    "url": "https://www.google.com"
                 },
                 {
-                    "titre": "Qwant",
-                    "url": "http://www.qwant.com"
+                    "title": "Brave Search",
+                    "url": "https://search.brave.com",
+                    "border_color": "rgb(192,0,0)"
                 }
-            ]
+            ],
+            "title_color": "rgb(192,0,0)"
         },
         {
-            "titre": "Travel",
+            "title": "Travel",
             "elements": [
                 {
-                    "titre": "Bla bla car",
+                    "title": "Bla bla car",
                     "url": "https://www.blablacar.fr"
                 },
                 {
-                    "titre": "Qwant",
+                    "title": "Qwant",
                     "url": "http://www.qwant.com"
                 }
             ]
@@ -29,18 +36,18 @@
     ],
     [
         {
-            "titre": "Source code",
+            "title": "Source code",
             "elements": [
                 {
-                    "titre": "Github",
+                    "title": "Github",
                     "url": "http://www.github.com"
                 },
                 {
-                    "titre": "Stack Overflow",
+                    "title": "Stack Overflow",
                     "url": "https://stackoverflow.com"
                 }
             ],
-            "couleur_tour": "rgb(192,0,0)"
+            "border_color": "rgb(192,0,0)"
         }
     ]
 ]
